@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/dustinl/.offlineimap'
+let g:netrw_dirhist_2='/homes/nas'
+let g:netrw_dirhist_3='/mnt/home.ac.corp.tw1.yahoo.com/homes/multani/dev/nevec/CoreAPI/common/trunk/src/universal_dao'
+let g:netrw_dirhist_4='/mnt/home.ac.corp.tw1.yahoo.com/homes/multani/dev/nevec/GloablService/Merchandise/trunk/conf/merchandise_egs_validate_rules'
+let g:netrw_dirhist_5='/mnt/home.ac.corp.tw1.yahoo.com/homes/multani/dev/nevec/GloablService/Merchandise/trunk/src/lib/plugin'
+let g:netrw_dirhist_6='/mnt/home.ac.corp.tw1.yahoo.com/homes/multani/dev/nevec/CoreAPI/SearchAPI/trunk/tests'
